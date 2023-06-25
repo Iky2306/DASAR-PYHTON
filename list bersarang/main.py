@@ -23,3 +23,4 @@ for peserta in list_peserta:
     print(f"nama\t: {peserta[0]}")
     print(f"umur\t: {peserta[1]}")
     print(f"gender\t: {peserta[2]}\n")
+

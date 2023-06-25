@@ -1,4 +1,4 @@
-# looping dari lsit
+# looping dari list
 
 # for loop
 print("for loop")
